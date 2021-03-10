@@ -1,0 +1,12 @@
+# -> Bu işaret yorum satırı işaretidir komutların çıktılarını bu işaret ile yazdım.
+
+print("Merhaba Dünya")
+ #Merhaba Dünya
+ print("Merhaba /tDünya")  # -> /t komutu tab tuşu görevi görür gibi boşluk bıraktırır.
+ #Merhaba   Dünya 
+ 
+ print("Merhaba \nDünya") # -> \n komutu bir alt satırda yazdımak amacı ile kullanılır.
+ #Merhaba
+ Dünya
+ 
+ 
