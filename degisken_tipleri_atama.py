@@ -1,6 +1,6 @@
 #DEĞİŞKENLERDE DİKKAT EDİLMESİ GEREKEN KURALLAR 
 
-* Değişkenlere isim verirken  SAYI ile başlayan isimler verilmez ama harften sonra sayı kullanılabilir.(1degisken-> (Hata verir), degisken1->(kullanılabilir))
+# Değişkenlere isim verirken  SAYI ile başlayan isimler verilmez ama harften sonra sayı kullanılabilir.(1degisken-> (Hata verir), degisken1->(kullanılabilir))
                        <----- ÖRNEK ---->
 sayi = 10                     1sayi = 10
 print(sayi)                   print(1sayi)
@@ -18,18 +18,18 @@ print(sayi)                   print(1sayi)
 
 
 
-<---- PRATİKLER ---->
+# <---- PRATİKLER ---->
 
 x,y,z = "Masa", "Kalem", "Sıra"                       
 print(x)
 print(y)
 print(z)                                                                                        x = y = z = "Masa"
-ÇIKTISI -> Masa         hepsini tek değişkene atamak istersek ->                                 print(x)
-           Kalem                                                                                 print(y)
-           Sıra                                                                                  ptint(z)
-                                                                                             ÇIKTISI -> Masa                
-                                                                                                        Masa
-                                                                                                        Masa
+#ÇIKTISI -> Masa         hepsini tek değişkene atamak istersek ->                                 print(x)
+#           Kalem                                                                                 print(y)
+ #          Sıra                                                                                  ptint(z)
+  #                                                                                           ÇIKTISI -> Masa                
+   #                                                                                                     Masa
+    #                                                                                                    Masa
 
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------
