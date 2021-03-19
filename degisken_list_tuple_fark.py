@@ -1,0 +1,3 @@
+#LİSTELEME YÖNYEMİ YAZIMI 
+
+
