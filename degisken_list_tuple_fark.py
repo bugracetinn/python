@@ -22,7 +22,7 @@ meyveler[0] = "armut"
 print(meyveler)
 #ÇIKTI:['armut', 'portakal', 'muz']
 
-#TUPLE YÖNTEMİ İLE EKLEME
+#TUPLE YÖNTEMİ İLE EKLEME YAPACAK OLURSAK (Sondaki eror görülür)
 meyveler = ("elma","portakal","muz")
 print(meyveler)
 #ÇIKTISI 
@@ -32,4 +32,4 @@ meyveler[0] = "armut"
 #<ipython-input-77-9f594cadf180> in <module>
 #----> 1 meyveler[0] = "armut"
 
-#TypeError: 'tuple' object does not support item assignment                   ->Şeklinde eror verir.
+#TypeError: 'tuple' object does not support item assignment  ->Şeklinde eror verir.
